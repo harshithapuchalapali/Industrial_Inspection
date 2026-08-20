@@ -1,1 +1,1 @@
-# Industrial_Inspection
+# Industrial Inspection
